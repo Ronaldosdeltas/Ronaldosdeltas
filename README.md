@@ -11,7 +11,7 @@
 - 📫 How to reach me: ronaldosssantos1@gmail.com
 - ⚡ Fun fact: ...
 -->
-  ![snake gif](https://github.com/Ronaldosdeltas/Ronaldosdeltas/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/brunorafaeI/brunorafaeI/blob/output/github-contribution-grid-snake.svg)
 
   <br>
 ### **Programing Langueges I code**
