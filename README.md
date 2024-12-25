@@ -1,4 +1,6 @@
-## Hi there 👋
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ADD8E6&lines=+Hi+There!+I'm+Ronaldoss+Welcome!+👋)](https://git.io/typing-svg)
 
 💻 Desenvolvedor de Software | 🚀 Entusiasta de Tecnologia | 📚 Aprendiz Contínuo.
 
@@ -7,11 +9,10 @@
 - 🌱 I’m currently focused on learning Java.
 - 📫 How to reach me: ronaldosssantos1@gmail.com
 - ⚡ Fun fact: I'm almost a polyglot ...
--->
+
 ![Snake animation](https://github.com/brunorafaeI/brunorafaeI/blob/output/github-contribution-grid-snake.svg)
 
-  <br>
-### **Programing Langueges I code**
+### **Programing Langueges I Code**
  <img align="center" alt="Ph-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> <img align="center" alt="Ph-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Ph-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 ### **Tools**
@@ -23,6 +24,8 @@
 
 ### **Languages I Speak**
 <img align="center" alt="Flag" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"> <img align="center" alt="Flag-Russia" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"> <img align="center" alt="Flag-Brazil" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg">
- 
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ADD8E6&lines=+Hope+ya+had+Good+Time!+👋)](https://git.io/typing-svg)
+
 
 
