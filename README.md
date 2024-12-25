@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ADD8E6&lines=+Hi+There!+I'm+Ronaldoss+Welcome!+👋)](https://git.io/typing-svg)
 
+<div>
 💻 Software Developer | 🚀 Technology Enthusiast | 📚 Lifelong Learner.
 
 - 🔭 I’m currently Studying Systems Analysis and Development at [Uninter - International University Center](https://www.uninter.com/)
@@ -9,8 +10,19 @@
 - 🌱 I’m currently focused on learning Java.
 - 📫 How to reach me: ronaldosssantos1@gmail.com
 - ⚡ Fun fact: I'm almost a polyglot ...
+</div>
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ronaldosdeltas&show_icons=true&theme=tokyonight&count_private=true"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronaldosdeltas&layout=compact&langs_count=7&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
 
-![Snake animation](https://github.com/brunorafaeI/brunorafaeI/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Ronaldosdeltas/Ronaldosdeltas/blob/output/github-contribution-grid-snake.svg)
 
 ### **Programing Langueges I Code**
  <img align="center" alt="Ph-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> <img align="center" alt="Ph-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Ph-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
