@@ -22,7 +22,10 @@
   </tr>
 </table>
 
+<div>
+  
 ![Snake animation](https://github.com/Ronaldosdeltas/Ronaldosdeltas/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 ### **Programing Langueges I Code**
  <img align="center" alt="Ph-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> <img align="center" alt="Ph-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Ph-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
