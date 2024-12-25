@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ADD8E6&lines=+Hi+There!+I'm+Ronaldoss+Welcome!+👋)](https://git.io/typing-svg)
 
-💻 Desenvolvedor de Software | 🚀 Entusiasta de Tecnologia | 📚 Aprendiz Contínuo.
+💻 Software Developer | 🚀 Technology Enthusiast | 📚 Lifelong Learner.
 
 - 🔭 I’m currently Studying Systems Analysis and Development at [Uninter - International University Center](https://www.uninter.com/)
 
