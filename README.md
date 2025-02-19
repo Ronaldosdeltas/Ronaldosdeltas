@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ADD8E6&lines=+Hi+There!+I'm+Ronaldoss+Welcome!+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ADD8E6&lines=+Hi+There!+I'm+Ronaldoss,+Welcome!+👋)](https://git.io/typing-svg)
 
 <div>
 💻 Software Developer | 🚀 Technology Enthusiast | 📚 Lifelong Learner.
