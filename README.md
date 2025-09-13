@@ -39,8 +39,8 @@
 
 ### **Tools**
 <div style="display: flex; gap: 10px; align-items: center;">
- <!-- GitHub -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/GitHub_Logo_White.png" title="GitHub" alt="GitHub" width="40" height="40"/>
+<!-- GitHub (branco) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40" style="filter: invert(1);"/>
 
 <!-- Git -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
