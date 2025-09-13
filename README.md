@@ -38,11 +38,18 @@
 
 
 ### **Tools**
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+ <!-- GitHub -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
 
-### **IDEs I use most.**
-![Intellij IDEA Ultimate](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<!-- Git -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 
+### **IDEs I Use Most**
+<!-- VS Code -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
+
+<!-- IntelliJ IDEA -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>
 
 ### **Languages I Speak**
 <img align="center" alt="Flag" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"> <img align="center" alt="Flag-Russia" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"> <img align="center" alt="Flag-Brazil" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg">
