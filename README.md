@@ -6,8 +6,7 @@
 💻 Software Developer | 🚀 Technology Enthusiast | 📚 Lifelong Learner.
 
 - 🔭 I’m currently Studying Systems Analysis and Development at [Uninter - International University Center](https://www.uninter.com/)
-
-- 🌱 I’m currently focused on learning Java.
+  
 - 📫 How to reach me: ronaldosssantos1@gmail.com
 - ⚡ Fun fact: I'm almost a polyglot ...
 </div>
