@@ -1,14 +1,6 @@
 
 
 # 👋 Hi There! I'm Ronaldoss
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Developer+%F0%9F%92%BB;Technology+Enthusiast+%F0%9F%9A%80;Lifelong+Learner+%F0%9F%93%9A;Building+the+Future!+%E2%9C%A8)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
   
 ### 🌟 About Me
 
@@ -158,23 +150,10 @@ graph LR
 
 ![Visitors](https://komarev.com/ghpvc/?username=Ronaldosdeltas&color=00D9FF&style=for-the-badge&label=Profile+Views)
 
-### ⚡ Fun Fact
-
-*"The best error message is the one that never shows up!"* 🚀
-
----
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80;Happy+Coding!+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
----
-
-<div align="center">
-  
-**⭐️ From [Ronaldosdeltas](https://github.com/Ronaldosdeltas) with ❤️**
-
-</div>
 
 
 
