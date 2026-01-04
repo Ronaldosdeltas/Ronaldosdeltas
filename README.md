@@ -20,19 +20,6 @@ const ronaldoss = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ronaldosdeltas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronaldosdeltas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronaldosdeltas&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -84,49 +71,6 @@ const ronaldoss = {
 
 ---
 
-## 🌍 Languages I Speak
-
-<div align="center">
-
-| Language | Level |
-|----------|-------|
-| 🇧🇷 **Portuguese** | Native |
-| 🇺🇸 **English** | Fluent |
-| 🇷🇺 **Russian** | Intermediate |
-
-</div>
-
----
-
-## 🎯 Currently Working On
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[💡 Learning] --> B[Cloud Architecture]
-    A --> C[Microservices]
-    A --> D[DevOps]
-    B --> E[🚀 Building]
-    C --> E
-    D --> E
-    E --> F[Amazing Projects!]
-```
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophy](https://github-profile-trophy.vercel.app/?username=Ronaldosdeltas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -141,10 +85,6 @@ graph LR
 ---
 
 <div align="center">
-
-### 💭 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 📊 Profile Views
 
